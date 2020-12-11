@@ -1,6 +1,6 @@
 {
   "name": "@drizzlevanta/vision",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "OpenAPI client for vision-api",
   "author": "OpenAPI-Generator Contributors",
   "keywords": [
